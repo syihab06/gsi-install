@@ -1,11 +1,7 @@
 #tools flash gsi simple
 #saya akan memudahkan dan mempercepat dalam melakukan uji gsi
-echo syarat sudah unlock bootloader (wajib)
-sleep 0.7
-clear
-echo install adb & fastboot
-sleep 0.7
-clear
+echo sudah siap?
+sleep 0.5 
 adb devices
 adb reboot bootloader
 fastboot devices
