@@ -27,6 +27,8 @@ trimakasih atas dukungannya
 - buka terminal di dalam folder gsi-install-simple ketik ./install.sh atau copas aja hehe
 - jangan lupa centang notif dan izinkan di device/hp
 - setelah itu tunggu aja beberapa menit biar toolsnya melakukan install otomatis hehe
+  #kembali ke stock rom
+  -
 
 
 
