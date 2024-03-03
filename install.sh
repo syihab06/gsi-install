@@ -14,3 +14,5 @@ fastboot erase system
 fastboot flash system system.img
 fastboot -w
 fastboot reboot recovery
+clear
+echo wipe data lalu reboot
